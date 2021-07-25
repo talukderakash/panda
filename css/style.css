@@ -1,0 +1,14 @@
+.panda-bg{
+background-color: 
+#FEEAE9;
+}
+.text-color{
+color: rgb(0, 252, 210);
+}
+.button-de{
+    color: white;
+    border-radius: 5px;
+    border: none;
+    background: linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%);
+    padding: 5px 30px;
+}
